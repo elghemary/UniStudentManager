@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "cne": "G1765432312",
+      "nom": "Ilyas",
+      "prenom": "Ahmed",
+      "groupe": "3",
+      "filiere": "MID",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": 1,
+      "cne": "H1393462410",
+      "nom": "el ghemary",
+      "prenom": "Farah",
+      "groupe": "1",
+      "filiere": "MID",
+      "email": "elghemary&gmail.com"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": 2,
+      "type": "Examen",
+      "titre": "1",
+      "date": "2025-10-13",
+      "coefficient": 1.0,
+      "note_max": 20.0
+    }
+  ],
+  "grades": []
+}
