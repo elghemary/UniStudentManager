@@ -43,10 +43,6 @@ UniStudentManager/
    python App.py
    ```
 
-## Dependencies
-- No external dependencies required for core functionality (uses Python standard library).
-- If additional packages are needed, they will be listed in a `requirements.txt` file.
-
 ## Usage
 - Follow the prompts in the terminal to add or view student records.
 - Add multiple subjects for each student and assign teachers to those subjects.
@@ -57,9 +53,6 @@ UniStudentManager/
 ## Customization
 - You can extend the `models.py` file to add more features, such as additional subject fields, teacher information, or certificate templates.
 - Modify `App.py` to change the application flow, add new commands, or customize certificate generation.
-
-## Disclaimer
-This project is developed as part of a university assignment. It is intended for educational purposes only. Please do not use it for commercial or production environments without further review and testing.
 
 ---
 **Author:** EL GHEMARY Farah
