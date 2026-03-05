@@ -27,8 +27,6 @@ UniStudentManager/
 ├── models.py        # Data models and classes for student management
 ├── assets/          # Directory for static assets (e.g., images, templates)
 ├── exports/         # Directory for exported data files (CSV, JSON)
-│   ├── hi.csv
-│   └── hi.json
 └── __pycache__/     # Python cache files (auto-generated)
 ```
 
