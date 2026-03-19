@@ -2,7 +2,7 @@
 
 ## Overview
 UniStudentManager is a Python-based application designed to manage university student records efficiently. The project provides a simple interface for adding, viewing, and exporting student data, making it suitable for academic and administrative use. It is structured to be easily extendable and maintainable, with a focus on clarity and usability.
-
+![Application Interface](https://github.com/elghemary/UniStudentManager/blob/main/UI.png?raw=true)
 The system supports:
 - Adding multiple subjects
 - Assigning different teachers to subjects
